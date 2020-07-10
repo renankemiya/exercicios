@@ -1,17 +1,17 @@
-def oi(s):
-    '''Função que imprime a mensagem 'Olá Mundo' com um str especifico
-
+def chamar_numero(s):
+    '''Função que pede um número e informa o número que foi colocado
 
     :param s:
     :return:
     '''
-    if s == 'oi':
-        print('Olá Mundo')
-    elif s != 'oi':
+    if s == 1:
+        resultado = (input('Digite um número:'))
+        print(resultado)
+    elif s != 1:
         print('tente novamente')
 
 
 if __name__ == '__main__':
-    oi('oi')
+    chamar_numero(1)
 else:
     print(__name__)
