@@ -1,3 +1,3 @@
-from matematica.base_soma.matematica import soma
+from matematica.calculo.soma import soma as s
 
-print(soma(10, 10))
+print(s(10, 10))

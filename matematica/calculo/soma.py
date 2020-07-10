@@ -1,5 +1,5 @@
 def soma(parcela, parcela_2):
-    '''Função que soma duas parcelas
+    '''Essa função soma duas parcelas
 
     :param parcela:
     :param parcela_2:
