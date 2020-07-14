@@ -36,3 +36,4 @@ if __name__ == '__main__':
     contar_caracteres('renan')
     print()
     contar_caracteres('bananna')
+

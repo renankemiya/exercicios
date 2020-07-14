@@ -9,8 +9,19 @@ def oi(s):
     elif s != 'oi':
         print('tente novamente')
 
+class Alo():
+    caixa = {'oi': 'Alo Mundo'}
+    def cumprimento(self):
+        return 'Alo Mundo'
+
+    def cumpirmentar_2(self):
+
+        ola = self.caixa['oi']
+        return f'{ola}'
+
 
 if __name__ == '__main__':
     oi('oi')
-else:
-    print(__name__)
+    mundo = Alo()
+    print(mundo.cumprimento())
+    print(mundo.cumpirmentar_2())
