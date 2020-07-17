@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="terminado exercicio_9.py">
+      <change afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_9.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eVr1ycHAfGTrq0DrdjNWGO7EzS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="exercicios" sdk-home="C:\Users\Windows10\PycharmProjects\exercicios\venv\Scripts\python.exe">
+        <option name="mySdkHome" value="C:\Users\Windows10\PycharmProjects\exercicios\venv\Scripts\python.exe" />
+        <option name="myModuleName" value="exercicios" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.exercicio_9">
+    <configuration name="exercicio_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicio_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicio_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicio_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicio_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercicio_9" />
+        <item itemvalue="Python.exercicio_8" />
+        <item itemvalue="Python.exercicio_7" />
+        <item itemvalue="Python.exercicio_6" />
+        <item itemvalue="Python.exercicio_5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="" />
+      <created>1594417390851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594417390851</updated>
+    </task>
+    <task id="LOCAL-00001" summary="colocando class Calcular">
+      <created>1594765558676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594765558676</updated>
+    </task>
+    <task id="LOCAL-00002" summary="terminando exercicio_3.py, começando exercicio_4.py">
+      <created>1594839077074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594839077074</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tentando melhorar resposta exercicio_4.py">
+      <created>1594844614742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594844614742</updated>
+    </task>
+    <task id="LOCAL-00004" summary="terminando exercicio_4.py">
+      <created>1594844843754</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594844843754</updated>
+    </task>
+    <task id="LOCAL-00005" summary="completando exercicios">
+      <created>1595003982010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595003982010</updated>
+    </task>
+    <task id="LOCAL-00006" summary="completando exercicio_5.py">
+      <created>1595004258948</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595004258948</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fazendo exercicios 6, 7 , 8 e começando 9">
+      <created>1595012693792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595012693792</updated>
+    </task>
+    <task id="LOCAL-00008" summary="terminado exercicio_9.py">
+      <created>1595012970361</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595012970361</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="colocando class Calcular" />
+    <MESSAGE value="terminando exercicio_3.py, começando exercicio_4.py" />
+    <MESSAGE value="tentando melhorar resposta exercicio_4.py" />
+    <MESSAGE value="terminando exercicio_4.py" />
+    <MESSAGE value="completando exercicios" />
+    <MESSAGE value="completando exercicio_5.py" />
+    <MESSAGE value="fazendo exercicios 6, 7 , 8 e começando 9" />
+    <MESSAGE value="terminado exercicio_9.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminado exercicio_9.py" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594417779056">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1594417779056" />
+    <state x="349" y="70" key="#exercicio_2" timestamp="1594757982140">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="70" key="#exercicio_2/0.0.1280.984@0.0.1280.984" timestamp="1594757982140" />
+    <state width="1259" height="262" key="GridCell.Tab.0.bottom" timestamp="1595013728313">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="262" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595013728313" />
+    <state width="1259" height="262" key="GridCell.Tab.0.center" timestamp="1595013728312">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="262" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595013728312" />
+    <state width="1259" height="262" key="GridCell.Tab.0.left" timestamp="1595013728312">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="262" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595013728312" />
+    <state width="1259" height="262" key="GridCell.Tab.0.right" timestamp="1595013728313">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="262" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595013728313" />
+    <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1595013535380">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595013535380" />
+    <state width="1259" height="325" key="GridCell.Tab.1.center" timestamp="1595013535379">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1595013535379" />
+    <state width="1259" height="325" key="GridCell.Tab.1.left" timestamp="1595013535379">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1595013535379" />
+    <state width="1259" height="325" key="GridCell.Tab.1.right" timestamp="1595013535380">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1259" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1595013535380" />
+    <state x="141" y="137" key="SettingsEditor" timestamp="1594417769916">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1594417769916" />
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1595012971455">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595012971455" />
+    <state x="483" y="264" key="refactoring.ChangeSignatureDialog" timestamp="1594841565621">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="483" y="264" key="refactoring.ChangeSignatureDialog/0.0.1280.984@0.0.1280.984" timestamp="1594841565621" />
+  </component>
+</project>
