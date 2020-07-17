@@ -16,6 +16,6 @@ class CalcularMedia:
 
 
 if __name__ == '__main__':
-    print(nota_media(7.4, 5.9, 5.4, 9.3))
+    print(nota_media(7.4, 5.9, 7.4, 9.3))
     resultado2 = CalcularMedia(bimestre1=7.0, bimestre2=9.1, bimestre3=10.0, bimestre4=8.5)
     print(resultado2.juntar_e_dividir())
