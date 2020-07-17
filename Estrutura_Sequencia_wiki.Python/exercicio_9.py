@@ -1,4 +1,4 @@
-class Temperatura:
+class TemperaturaFarenheit:
     def __init__(self, farenheit):
         self.farenheit = farenheit
 
@@ -15,6 +15,6 @@ def converter_teperatura(farenheit):
 
 
 if __name__ == '__main__':
-    temperatura = Temperatura(122)
+    temperatura = TemperaturaFarenheit(122)
     print(temperatura.converter_farenheit_celsius())
     print(converter_teperatura(410))
