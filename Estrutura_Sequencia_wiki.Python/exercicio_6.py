@@ -10,12 +10,12 @@ class CalcularAreaDoCirculo:
     def calcular_area(self):
         raio = self.raio
         resultado = (raio ** 2) * math.pi
-        return resultado
+        return f'area do circulo = {resultado}'
 
 
 def calcular_area_circulo(raio):
     area = (raio ** 2) * math.pi
-    return area
+    return f'area do circulo = {area}'
 
 
 if __name__ == '__main__':

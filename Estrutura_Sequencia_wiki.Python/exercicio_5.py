@@ -7,7 +7,7 @@ class ConversorParaCentimetros:
 
     def conversor_para_centimetros(self):
         metro = self.metro * 100
-        return metro
+        return f'{metro} centimetros'
 
 def metros_para_centimetros(s):
     """ Função que converte metros para centimetros
@@ -15,7 +15,8 @@ def metros_para_centimetros(s):
     :param s:
     :return:
     """
-    return s * 100
+    valor = s * 100
+    return f'{valor} centimetros'
 
 if __name__ == '__main__':
     valor = ConversorParaCentimetros(1)

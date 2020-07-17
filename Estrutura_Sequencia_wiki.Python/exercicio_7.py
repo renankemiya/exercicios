@@ -8,12 +8,13 @@ class AreaDobradaDoQuadrado:
 
     def calcular_area_quadrado(self):
         lado_do_quadrado = self.lado ** 2
-        return lado_do_quadrado * 2
+        lado_do_quadrado = lado_do_quadrado * 2
+        return f'area do quadrado dobrada = {lado_do_quadrado}'
 
 
 def calcular_area_dobrada_quadrado(lado):
     area_dobrada = (lado ** 2) * 2
-    return area_dobrada
+    return f'area do quadrado dobrada = {area_dobrada}'
 
 
 if __name__ == '__main__':
