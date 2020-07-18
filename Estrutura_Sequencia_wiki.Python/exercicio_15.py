@@ -20,7 +20,7 @@ class Salario:
                f'b: pago ao INSS o valor de {self.inss} Reais', \
                f'c: pago ao Sindicato o valor de {self.sindicato} Reais', \
                f'd: salário liquido de {valor_liquido} Reais', \
-               f'em {self.mes}'
+               f'No mês de {self.mes}'
 
 
 if __name__ == '__main__':
