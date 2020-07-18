@@ -19,7 +19,8 @@ class Salario:
         return f'a: salário bruto de {self.valor_bruto} Reais', \
                f'b: pago ao INSS o valor de {self.inss} Reais', \
                f'c: pago ao Sindicato o valor de {self.sindicato} Reais', \
-               f'd: salário liquido de {valor_liquido} Reais'
+               f'd: salário liquido de {valor_liquido} Reais', \
+               f'em {self.mes}'
 
 
 if __name__ == '__main__':
