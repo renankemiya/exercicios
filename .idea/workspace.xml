@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="terminando exercicio_12.py">
-      <change afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_13.py" afterDir="false" />
+    <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="terminando exercicio_13.py">
+      <change afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio_13">
+  <component name="RunManager" selected="Python.exercicio_14">
     <configuration name="exercicio_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercicio_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio_14" />
         <item itemvalue="Python.exercicio_13" />
         <item itemvalue="Python.exercicio_12" />
         <item itemvalue="Python.exercicio_11" />
         <item itemvalue="Python.exercicio_10" />
-        <item itemvalue="Python.exercicio_9" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595090213572</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="terminando exercicio_13.py">
+      <created>1595091846142</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1595091846142</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,7 +314,8 @@
     <MESSAGE value="algo" />
     <MESSAGE value="terminando exercicio_9.py e exercicio_10.py" />
     <MESSAGE value="terminando exercicio_12.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminando exercicio_12.py" />
+    <MESSAGE value="terminando exercicio_13.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminando exercicio_13.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594417779056">
@@ -318,46 +326,46 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="349" y="70" key="#exercicio_2/0.0.1280.984@0.0.1280.984" timestamp="1594757982140" />
-    <state width="1222" height="246" key="GridCell.Tab.0.bottom" timestamp="1595090195527">
+    <state width="1071" height="226" key="GridCell.Tab.0.bottom" timestamp="1595093914566">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="246" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595090195527" />
-    <state width="1222" height="246" key="GridCell.Tab.0.center" timestamp="1595090195526">
+    <state width="1071" height="226" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595093914566" />
+    <state width="1071" height="226" key="GridCell.Tab.0.center" timestamp="1595093914566">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="246" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595090195526" />
-    <state width="1222" height="246" key="GridCell.Tab.0.left" timestamp="1595090195526">
+    <state width="1071" height="226" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595093914566" />
+    <state width="1071" height="226" key="GridCell.Tab.0.left" timestamp="1595093914566">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="246" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595090195526" />
-    <state width="1222" height="246" key="GridCell.Tab.0.right" timestamp="1595090195526">
+    <state width="1071" height="226" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595093914566" />
+    <state width="1071" height="226" key="GridCell.Tab.0.right" timestamp="1595093914566">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="246" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595090195526" />
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1595013535380">
+    <state width="1071" height="226" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595093914566" />
+    <state width="1071" height="283" key="GridCell.Tab.1.bottom" timestamp="1595091631167">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595013535380" />
-    <state width="1259" height="325" key="GridCell.Tab.1.center" timestamp="1595013535379">
+    <state width="1071" height="283" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595091631167" />
+    <state width="1071" height="283" key="GridCell.Tab.1.center" timestamp="1595091631166">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1595013535379" />
-    <state width="1259" height="325" key="GridCell.Tab.1.left" timestamp="1595013535379">
+    <state width="1071" height="283" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1595091631166" />
+    <state width="1071" height="283" key="GridCell.Tab.1.left" timestamp="1595091631166">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1595013535379" />
-    <state width="1259" height="325" key="GridCell.Tab.1.right" timestamp="1595013535380">
+    <state width="1071" height="283" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1595091631166" />
+    <state width="1071" height="283" key="GridCell.Tab.1.right" timestamp="1595091631167">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1595013535380" />
+    <state width="1071" height="283" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1595091631167" />
     <state x="141" y="137" key="SettingsEditor" timestamp="1594417769916">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="141" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1594417769916" />
-    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1595090214924">
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1595091847279">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595090214924" />
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595091847279" />
     <state x="483" y="264" key="refactoring.ChangeSignatureDialog" timestamp="1594841565621">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
