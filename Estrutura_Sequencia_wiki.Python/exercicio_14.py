@@ -2,19 +2,14 @@ class RendaPescador:
     def __init__(self, peso):
         self.peso = peso
 
-    def guardar_excesso(self):
+    def calcular_renda(self):
         if self.peso > 50:
             excesso = self.peso - 50
-            return f'O peso do peixe é de {self.peso} Kg, com o excesso de {excesso} Kg'
-
-    def calcular_renda(self):
-        peso = self.peso
-        if peso > 50:
-            multa = (self.peso - 50) * 4.00
-            return f'{self.guardar_excesso()}, A multa é de {multa} Reais'
+            multa = excesso * 4.00
+            return f'O peso do peixe é de {self.peso} Kg, ' \
+                   f'com o excesso de {excesso}, A multa é de {multa} Reais'
         else:
-            return f'O peso do peixe é de {peso} Kg, logo não há multa'
-
+            return f'O peso do peixe é de {self.peso} Kg, logo não há multa'
 
 
 if __name__ == '__main__':
