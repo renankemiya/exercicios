@@ -13,11 +13,12 @@ class RendaPescador:
             multa = (self.peso - 50) * 4.00
             return f'{self.guardar_excesso()}, A multa é de {multa} Reais'
         else:
-            return f'{peso, logo não há multa'
+            return f'O peso do peixe é de {peso} Kg, logo não há multa'
 
 
 
 if __name__ == '__main__':
     renda = RendaPescador(52.5)
     print(renda.calcular_renda())
-
+    renda = RendaPescador(34)
+    print(renda.calcular_renda())
