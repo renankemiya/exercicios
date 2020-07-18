@@ -12,7 +12,6 @@ class Salario:
         self.inss = (self.valor_bruto / 100) * 8
         self.sindicato = (self.valor_bruto / 100) * 5
 
-
     def calcular_salario(self):
         descontos = self.imposto_de_renda + self.inss + self.sindicato
         valor_liquido = self.valor_bruto - descontos
@@ -20,11 +19,11 @@ class Salario:
                f'b: pago ao INSS o valor de {self.inss} Reais', \
                f'c: pago ao Sindicato o valor de {self.sindicato} Reais', \
                f'd: salário liquido de {valor_liquido} Reais', \
-               f'No mês de {self.mes}'
+               f'No mês de {self.mes}, pago o Imposto de renda com valor {self.imposto_de_renda}'
 
 
 if __name__ == '__main__':
-    salario = Salario(26,8,'Setembro')
+    salario = Salario(26, 8, 'Setembro')
     print(salario.valor_bruto)
     print(salario.imposto_de_renda)
     print(salario.inss)
