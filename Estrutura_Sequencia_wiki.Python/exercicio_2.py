@@ -13,7 +13,7 @@ def chamar_numero(s):
 
 class Mandar():
 
-    def __init__(self, numero=0, frase='O numero informado foi:'):
+    def __init__(self, numero=0, frase='O número informado foi:'):
         self.frase = frase
         self.numero = numero
 
@@ -27,5 +27,5 @@ if __name__ == '__main__':
     print(mandar.envio())
     chamar_numero(1)
 
-x = int(input('Insira um numero inteiro: '))  # resposta certa, corrigido da internet
-print('O numero inserido foi:', x)
+x = int(input('Insira um número inteiro: '))  # resposta certa, corrigido da internet
+print('O número inserido foi:', x)
