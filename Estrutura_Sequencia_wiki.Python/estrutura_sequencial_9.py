@@ -23,4 +23,4 @@ F = float(input('Informe a temperatura em Farenheit: '))  # resposta certa, corr
 
 C = 5 * (F - 32) / 9
 
-print('A temperatura informada convertida em Celsius é:', C, '°')
+print('Graus Celsius :', C)
