@@ -10,16 +10,15 @@ def chamar_numero(s):
     elif s != 1:
         print('tente novamente')
 
+
 class Mandar():
 
-    def __init__(self, numero = 0):
+    def __init__(self, numero=0, frase='O numero informado foi:'):
+        self.frase = frase
         self.numero = numero
 
-
-    def envio(self, frase = 'O numero informado foi'):
-        self.frase = frase
+    def envio(self):
         return f'{self.frase} {self.numero}'
-
 
 
 if __name__ == '__main__':
@@ -27,6 +26,6 @@ if __name__ == '__main__':
     mandar.numero = 100
     print(mandar.envio())
     chamar_numero(1)
-else:
-    print(__name__)
 
+x = int(input('Insira um numero inteiro: '))  # resposta certa, pego da internet
+print('O numero inserido foi:', x)
