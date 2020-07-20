@@ -10,12 +10,12 @@ class CalculadorDeVelocidade:
         while em_bytes > 0:
             segundo += 1
             em_bytes -= v_em_bytes
-        minuto = segundo / 60
+        minuto = int(segundo / 60)
         return f'Aproximadamente {minuto} minutos para baixar por esse link'
 
 
 if __name__ == '__main__':
-    medidor = CalculadorDeVelocidade(500, 2.72)
+    medidor = CalculadorDeVelocidade(500, 1.72)
     print(medidor.calculador())
 
 arquivo = float(input('Qual o tamanho do arquivo em MB?: '))  # resposta certa, corrigido da internet

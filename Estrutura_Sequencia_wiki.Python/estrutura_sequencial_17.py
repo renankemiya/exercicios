@@ -5,7 +5,7 @@ class CalculadorDeTinta:
         self.galoes_volume = 3.6  # litros
         self.preco_lata = 80.00  # reais
         self.preco_galao = 25.00  # reais
-        self.margem = self.area  # margem de 10%
+        self.margem = int(self.area * 1.1)  # margem de 10%
 
     def apenas_latas(self):
         lata = 0
@@ -68,6 +68,7 @@ preco_galao = quantidade_de_galoes * 25
 print(f'Se comprar somente galões, o preço será {preco_galao} reais comprando {quantidade_de_galoes} galões')
 
 if margem % 108 > 0:  # terceira situação
+    quantidade_de_latas = margem // 108
     sobra = (margem / 108 - margem // 108) * 108
     quantidade_de_galoes = sobra // 21.6
     if sobra % 21.6 > 0:

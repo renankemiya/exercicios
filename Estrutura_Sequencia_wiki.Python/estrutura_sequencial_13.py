@@ -5,11 +5,11 @@ class PesoIdealPorGenero:
 
     def calcular_peso(self):
         if self.genero == 'homem':
-            peso_h = (self.h * 72.7) - 58
-            return f'O peso ideal é de {peso_h}, H'
+            peso_h = int((self.h * 72.7) - 58)
+            return f'O peso ideal é de {peso_h} Kg, H'
         elif self.genero == 'mulher':
-            peso_m = (self.h * 62.1) - 44.7
-            return f'O peso ideal é de {peso_m}, M'
+            peso_m = int((self.h * 62.1) - 44.7)
+            return f'O peso ideal é de {peso_m} Kg, M'
 
 
 if __name__ == '__main__':

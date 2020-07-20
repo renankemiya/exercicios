@@ -1,6 +1,6 @@
 def nota_media(nota_1=0.0, nota_2=0.0, nota_3=0.0, nota_4=0.0):
     total = (nota_1 + nota_2 + nota_3 + nota_4) / 4
-    return f'Sua nota foi de {total}'
+    return f'Sua nota foi de {int(total)}'
 
 
 class CalcularMedia:
@@ -15,7 +15,7 @@ class CalcularMedia:
     def juntar_e_dividir(self):
         self.notatotal = self.bimestre1 + self.bimestre2 + self.bimestre3 + self.bimestre4
         total = self.notatotal / 4
-        return f'Sua nota foi de {total}'
+        return f'Sua nota foi de {int(total)}'
 
 
 if __name__ == '__main__':

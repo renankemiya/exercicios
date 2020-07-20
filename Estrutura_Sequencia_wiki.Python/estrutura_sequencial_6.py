@@ -10,12 +10,12 @@ class CalcularAreaDoCirculo:
     def calcular_area(self):
         raio_f = self.raio_c
         resultado = (raio_f ** 2) * math.pi
-        return f'area do circulo = {resultado}'
+        return f'area do circulo = {int(resultado)}'
 
 
 def calcular_area_circulo(raio_f):
     area_f = (raio_f ** 2) * math.pi
-    return f'area do circulo = {area_f}'
+    return f'area do circulo = {int(area_f)}'
 
 
 if __name__ == '__main__':
@@ -27,4 +27,4 @@ raio = int(input('Qual a medida do raio do circulo?: '))  # resposta certa, corr
 
 area = 3.1415 * raio ** 2
 
-print('A area desse circulo é: ', area)
+print('A area desse circulo é:', int(area))

@@ -5,7 +5,7 @@ class PesoIdeal:
     def calcular_peso_ideal(self):
         peso_c = self.altura * 72.7
         peso_c = peso_c - 58
-        return f'O peso ideal é de {peso_c} Kg'
+        return f'O peso ideal é de {int(peso_c)} Kg'
 
 
 if __name__ == '__main__':
