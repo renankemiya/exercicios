@@ -21,3 +21,4 @@ if __name__ == '__main__':
     areaX2 = AreaDobradaDoQuadrado(10)
     print(areaX2.calcular_area_quadrado())
     print(calcular_area_dobrada_quadrado(20))
+

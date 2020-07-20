@@ -23,7 +23,7 @@ if __name__ == '__main__':
     print(area_do_circulo.calcular_area())
     print((calcular_area_circulo(10)))
 
-raio = int(input('Qual a medida do raio do circulo? '))  # resposta certa, corrigida da internet
+raio = int(input('Qual a medida do raio do circulo?: '))  # resposta certa, corrigida da internet
 
 area = 3.1415 * raio ** 2
 
