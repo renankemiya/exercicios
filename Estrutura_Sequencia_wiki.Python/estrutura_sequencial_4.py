@@ -1,6 +1,7 @@
-def nota_media(nota1=0.0, nota2=0.0, nota3=0.0, nota4=0.0):
-    total = (nota1 + nota2 + nota3 + nota4) / 4
+def nota_media(nota_1=0.0, nota_2=0.0, nota_3=0.0, nota_4=0.0):
+    total = (nota_1 + nota_2 + nota_3 + nota_4) / 4
     return f'Sua nota foi de {total}'
+
 
 class CalcularMedia:
 
@@ -21,3 +22,12 @@ if __name__ == '__main__':
     print(nota_media(7.4, 5.9, 7.4, 9.3))
     resultado2 = CalcularMedia(bimestre1=7.0, bimestre2=9.1, bimestre3=10.0, bimestre4=8.5)
     print(resultado2.juntar_e_dividir())
+
+nota1 = int(input('Insira a primeira nota:'))  # resposta certa, corrigida da internet
+nota2 = int(input('Insira a segunda nota:'))
+nota3 = int(input('Insira a terceira nota:'))
+nota4 = int(input('Insira a quarta nota:'))
+
+media = (nota1 + nota2 + nota3 + nota4) / 4
+
+print('A média desse aluno é', media)
