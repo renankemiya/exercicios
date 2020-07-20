@@ -6,7 +6,7 @@ def chamar_numero(s):
     '''
     if s == 1:
         resultado = (input('Digite um número:'))
-        print(f'O número informado foi {resultado}')
+        print(f'O número informado foi: {resultado}')
     elif s != 1:
         print('tente novamente')
 
