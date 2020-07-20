@@ -28,4 +28,5 @@ if __name__ == '__main__':
     chamar_numero(1)
 
 x = int(input('Insira um número inteiro: '))  # resposta certa, corrigido da internet
+
 print('O número inserido foi:', x)
