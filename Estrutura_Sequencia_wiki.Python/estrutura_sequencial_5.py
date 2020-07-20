@@ -28,7 +28,7 @@ if __name__ == '__main__':
     print(valor.conversor_para_centimetros())
     print(metros_para_centimetros(1))
 
-metro = int(input('Insira a sua medida em metros: '))  # resposta certa, corrigida da internet
+metro = int(input('Insira a sua medida em metros: '))  # resposta certa, corrigido da internet
 
 cm = metro * 100
 

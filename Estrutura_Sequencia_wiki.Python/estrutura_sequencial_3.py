@@ -22,7 +22,7 @@ if __name__ == '__main__':
     print(resultado.numero_2)
     print(resultado.juntar())
 
-x = int(input('Insira um número: '))  # resposta certa, corrigida da internet
+x = int(input('Insira um número: '))  # resposta certa, corrigido da internet
 y = int(input('Insira outro número: '))
 
 print('A soma desses números é:', x+y)

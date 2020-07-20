@@ -22,7 +22,7 @@ if __name__ == '__main__':
     print(areaX2.calcular_area_quadrado())
     print(calcular_area_dobrada_quadrado(20))
 
-lado1 = float(input('Insira um lado do quadrado: '))  # resposta certa, corrigida da internet
+lado1 = float(input('Insira um lado do quadrado: '))  # resposta certa, corrigido da internet
 lado2 = float(input('Insira o outro do quadrado: '))
 
 area = lado1 * lado2

@@ -23,7 +23,7 @@ if __name__ == '__main__':
     resultado2 = CalcularMedia(bimestre1=7.0, bimestre2=9.1, bimestre3=10.0, bimestre4=8.5)
     print(resultado2.juntar_e_dividir())
 
-nota1 = int(input('Insira a primeira nota:'))  # resposta certa, corrigida da internet
+nota1 = int(input('Insira a primeira nota:'))  # resposta certa, corrigido da internet
 nota2 = int(input('Insira a segunda nota:'))
 nota3 = int(input('Insira a terceira nota:'))
 nota4 = int(input('Insira a quarta nota:'))
