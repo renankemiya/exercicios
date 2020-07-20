@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="corrigindo exercicios">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.estrutura_sequencial_6">
+  <component name="RunManager" selected="Python.estrutura_sequencial_9">
     <configuration name="estrutura_sequencial_3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,27 +74,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="estrutura_sequencial_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Windows10\PycharmProjects\exercicios\Estrutura_Sequencia_wiki.Python\estrutura_sequencial_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,13 +145,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="estrutura_sequencial_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.estrutura_sequencial_9" />
         <item itemvalue="Python.estrutura_sequencial_6" />
         <item itemvalue="Python.estrutura_sequencial_5" />
         <item itemvalue="Python.estrutura_sequencial_4" />
         <item itemvalue="Python.estrutura_sequencial_3 (1)" />
-        <item itemvalue="Python.estrutura_sequencial_3" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595265231762</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="corrigindo exercicios">
+      <created>1595265625405</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1595265625405</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,22 +557,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="138" y="328" width="909" height="689" key="DiffContextDialog/0.0.1280.984@0.0.1280.984" timestamp="1595263848039" />
-    <state width="1222" height="250" key="GridCell.Tab.0.bottom" timestamp="1595265321233">
+    <state width="936" height="191" key="GridCell.Tab.0.bottom" timestamp="1595265823222">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="250" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595265321233" />
-    <state width="1222" height="250" key="GridCell.Tab.0.center" timestamp="1595265321233">
+    <state width="936" height="191" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595265823222" />
+    <state width="936" height="191" key="GridCell.Tab.0.center" timestamp="1595265823222">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="250" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595265321233" />
-    <state width="1222" height="250" key="GridCell.Tab.0.left" timestamp="1595265321232">
+    <state width="936" height="191" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595265823222" />
+    <state width="936" height="191" key="GridCell.Tab.0.left" timestamp="1595265823221">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="250" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595265321232" />
-    <state width="1222" height="250" key="GridCell.Tab.0.right" timestamp="1595265321233">
+    <state width="936" height="191" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595265823221" />
+    <state width="936" height="191" key="GridCell.Tab.0.right" timestamp="1595265823222">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1222" height="250" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595265321233" />
+    <state width="936" height="191" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595265823222" />
     <state width="1259" height="324" key="GridCell.Tab.1.bottom" timestamp="1595100671103">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -587,10 +593,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="141" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1594417769916" />
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1595265234116">
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1595265626603">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595265234116" />
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595265626603" />
     <state x="483" y="264" key="refactoring.ChangeSignatureDialog" timestamp="1594841565621">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

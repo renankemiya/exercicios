@@ -18,3 +18,9 @@ if __name__ == '__main__':
     temperatura = TemperaturaFarenheit(122)
     print(temperatura.converter_farenheit_celsius())
     print(converter_teperatura(410))
+
+F = float(input('Informe a temperatura em Farenheit: '))  # resposta certa, corrigido da internet
+
+C = 5 * (F - 32) / 9
+
+print('A temperatura informada convertida em Celsius é:', C, '°')
