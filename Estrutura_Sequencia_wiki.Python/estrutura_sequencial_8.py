@@ -21,6 +21,13 @@ def salario_mensal(valor, horas, mes):
 
 
 if __name__ == '__main__':
-    salario = SalarioMensal(30.43, 10, 'Janeiro')
-    print(salario.calcular_salario())
+    salario_c = SalarioMensal(30.43, 10, 'Janeiro')
+    print(salario_c.calcular_salario())
     print(salario_mensal(72, 7, 'Agosto'))
+
+hora = float(input('Quanto você ganhar por hora?: '))  # resposta certa, corrigido da internet
+tempo = float(input('Quantas horas você trabalha por mês?: '))
+
+salario = hora * tempo
+
+print('Seu salário é de: ', salario, ' reais')
