@@ -19,9 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="arrumando exercicio_14.py">
+    <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="corrigindo exercicio_3.py">
+      <change afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki/exercicio_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +80,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio_14">
-    <configuration name="exercicio_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.estrutura_sequencial_3">
+    <configuration name="estrutura_sequencial_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_10.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Windows10\PycharmProjects\exercicios\Estrutura_Sequencia_wiki.Python\estrutura_sequencial_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="estrutura_sequencial_17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_11.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Windows10\PycharmProjects\exercicios\Estrutura_Sequencia_wiki.Python\estrutura_sequencial_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="estrutura_sequencial_18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_12.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Windows10\PycharmProjects\exercicios\Estrutura_Sequencia_wiki.Python\estrutura_sequencial_18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="estrutura_sequencial_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_13.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Windows10\PycharmProjects\exercicios\Estrutura_Sequencia_wiki.Python\estrutura_sequencial_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="estrutura_sequencial_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/exercicio_14.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Windows10\PycharmProjects\exercicios\Estrutura_Sequencia_wiki.Python\estrutura_sequencial_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercicio_14" />
-        <item itemvalue="Python.exercicio_13" />
-        <item itemvalue="Python.exercicio_12" />
-        <item itemvalue="Python.exercicio_11" />
-        <item itemvalue="Python.exercicio_10" />
+        <item itemvalue="Python.estrutura_sequencial_3" />
+        <item itemvalue="Python.estrutura_sequencial_2" />
+        <item itemvalue="Python.estrutura_sequencial_1" />
+        <item itemvalue="Python.estrutura_sequencial_18" />
+        <item itemvalue="Python.estrutura_sequencial_17" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +312,161 @@
       <option name="project" value="LOCAL" />
       <updated>1595094003134</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="terminando exercicio_14.py">
+      <created>1595094155915</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1595094155915</updated>
+    </task>
+    <task id="LOCAL-00017" summary="terminando exercicio_14.py">
+      <created>1595094387920</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1595094387920</updated>
+    </task>
+    <task id="LOCAL-00018" summary="terminando exercicio_15.py">
+      <created>1595096447245</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1595096447245</updated>
+    </task>
+    <task id="LOCAL-00019" summary="terminando exercicio_15.py">
+      <created>1595096530533</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1595096530533</updated>
+    </task>
+    <task id="LOCAL-00020" summary="terminando exercicio_15.py">
+      <created>1595096818343</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1595096818343</updated>
+    </task>
+    <task id="LOCAL-00021" summary="terminando exercicio_15.py">
+      <created>1595097133351</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1595097133351</updated>
+    </task>
+    <task id="LOCAL-00022" summary="terminando exercicio_16.py">
+      <created>1595098885550</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1595098885550</updated>
+    </task>
+    <task id="LOCAL-00023" summary="terminando exercicio_16.py">
+      <created>1595098923530</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1595098923530</updated>
+    </task>
+    <task id="LOCAL-00024" summary="terminando exercicio_17.py">
+      <created>1595100734569</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1595100734569</updated>
+    </task>
+    <task id="LOCAL-00025" summary="terminando exercicio_18.py">
+      <created>1595101656117</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1595101656117</updated>
+    </task>
+    <task id="LOCAL-00026" summary="corrigindo exercicio_1.py">
+      <created>1595261258651</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1595261258651</updated>
+    </task>
+    <task id="LOCAL-00027" summary="corrigindo exercicio_1.py">
+      <created>1595261277877</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1595261277877</updated>
+    </task>
+    <task id="LOCAL-00028" summary="corrigindo exercicio_2.py">
+      <created>1595261635701</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1595261635701</updated>
+    </task>
+    <task id="LOCAL-00029" summary="corrigindo exercicio_2.py">
+      <created>1595261653880</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1595261653880</updated>
+    </task>
+    <task id="LOCAL-00030" summary="corrigindo exercicio_2.py">
+      <created>1595262251285</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1595262251285</updated>
+    </task>
+    <task id="LOCAL-00031" summary="corrigindo exercicio_1.py">
+      <created>1595262295530</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1595262295530</updated>
+    </task>
+    <task id="LOCAL-00032" summary="corrigindo exercicio_1.py">
+      <created>1595262452320</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1595262452320</updated>
+    </task>
+    <task id="LOCAL-00033" summary="corrigindo exercicio_2.py">
+      <created>1595262493405</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1595262493405</updated>
+    </task>
+    <task id="LOCAL-00034" summary="corrigindo exercicio_2.py">
+      <created>1595262594505</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1595262594505</updated>
+    </task>
+    <task id="LOCAL-00035" summary="corrigindo exercicio_3.py">
+      <created>1595262729766</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1595262729766</updated>
+    </task>
+    <task id="LOCAL-00036" summary="corrigindo exercicio_3.py">
+      <created>1595262755695</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1595262755695</updated>
+    </task>
+    <task id="LOCAL-00037" summary="corrigindo exercicio_3.py">
+      <created>1595262877470</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1595262877470</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,7 +496,15 @@
     <MESSAGE value="terminando exercicio_12.py" />
     <MESSAGE value="terminando exercicio_13.py" />
     <MESSAGE value="arrumando exercicio_14.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrumando exercicio_14.py" />
+    <MESSAGE value="terminando exercicio_14.py" />
+    <MESSAGE value="terminando exercicio_15.py" />
+    <MESSAGE value="terminando exercicio_16.py" />
+    <MESSAGE value="terminando exercicio_17.py" />
+    <MESSAGE value="terminando exercicio_18.py" />
+    <MESSAGE value="corrigindo exercicio_1.py" />
+    <MESSAGE value="corrigindo exercicio_2.py" />
+    <MESSAGE value="corrigindo exercicio_3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrigindo exercicio_3.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594417779056">
@@ -334,46 +515,46 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="349" y="70" key="#exercicio_2/0.0.1280.984@0.0.1280.984" timestamp="1594757982140" />
-    <state width="1071" height="283" key="GridCell.Tab.0.bottom" timestamp="1595094020117">
+    <state width="1071" height="226" key="GridCell.Tab.0.bottom" timestamp="1595262605107">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1071" height="283" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595094020117" />
-    <state width="1071" height="283" key="GridCell.Tab.0.center" timestamp="1595094020117">
+    <state width="1071" height="226" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595262605107" />
+    <state width="1071" height="226" key="GridCell.Tab.0.center" timestamp="1595262605107">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1071" height="283" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595094020117" />
-    <state width="1071" height="283" key="GridCell.Tab.0.left" timestamp="1595094020116">
+    <state width="1071" height="226" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595262605107" />
+    <state width="1071" height="226" key="GridCell.Tab.0.left" timestamp="1595262605107">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1071" height="283" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595094020116" />
-    <state width="1071" height="283" key="GridCell.Tab.0.right" timestamp="1595094020117">
+    <state width="1071" height="226" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595262605107" />
+    <state width="1071" height="226" key="GridCell.Tab.0.right" timestamp="1595262605107">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1071" height="283" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595094020117" />
-    <state width="1071" height="283" key="GridCell.Tab.1.bottom" timestamp="1595094020117">
+    <state width="1071" height="226" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595262605107" />
+    <state width="1259" height="324" key="GridCell.Tab.1.bottom" timestamp="1595100671103">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1071" height="283" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595094020117" />
-    <state width="1071" height="283" key="GridCell.Tab.1.center" timestamp="1595094020117">
+    <state width="1259" height="324" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595100671103" />
+    <state width="1259" height="324" key="GridCell.Tab.1.center" timestamp="1595100671102">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1071" height="283" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1595094020117" />
-    <state width="1071" height="283" key="GridCell.Tab.1.left" timestamp="1595094020117">
+    <state width="1259" height="324" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1595100671102" />
+    <state width="1259" height="324" key="GridCell.Tab.1.left" timestamp="1595100671102">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1071" height="283" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1595094020117" />
-    <state width="1071" height="283" key="GridCell.Tab.1.right" timestamp="1595094020117">
+    <state width="1259" height="324" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1595100671102" />
+    <state width="1259" height="324" key="GridCell.Tab.1.right" timestamp="1595100671103">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1071" height="283" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1595094020117" />
+    <state width="1259" height="324" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1595100671103" />
     <state x="141" y="137" key="SettingsEditor" timestamp="1594417769916">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="141" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1594417769916" />
-    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1595091847279">
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1595262888155">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595091847279" />
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595262888155" />
     <state x="483" y="264" key="refactoring.ChangeSignatureDialog" timestamp="1594841565621">
       <screen x="0" y="0" width="1280" height="984" />
     </state>

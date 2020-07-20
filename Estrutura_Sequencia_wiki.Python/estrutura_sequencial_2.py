@@ -1,9 +1,9 @@
 def chamar_numero(s):
-    '''Função que pede um número com uma str especifica e retorna o número digitado com uma frase, primeira tentativa
+    """Função que pede um número com uma str especifica e retorna o número digitado com uma frase, primeira tentativa
 
     :param s:
     :return:
-    '''
+    """
     if s == 1:
         resultado = (input('Digite um número:'))
         print(f'O número informado foi: {resultado}')
@@ -11,7 +11,7 @@ def chamar_numero(s):
         print('tente novamente')
 
 
-class Mandar():
+class Mandar:
 
     def __init__(self, numero=0, frase='O número informado foi:'):
         self.frase = frase
