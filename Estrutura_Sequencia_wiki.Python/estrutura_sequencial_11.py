@@ -28,6 +28,7 @@ class Calculador:
         valor = self.real ** 3
         return f'resultado A: {produto}, resultado B: {soma}, resultado C: {valor}'
 
+
 if __name__ == '__main__':
     calculador = Calculador(3, 40, 8)
     print(calculador.calculo_a())
@@ -35,3 +36,14 @@ if __name__ == '__main__':
     print(calculador.calculo_c())
     print(calculador.calculos_abc())
 
+x1 = int(input('Informe o primeiro número inteiro: '))  # resposta certa, corrigido da internet
+x2 = int(input('Informe o segundo número inteiro: '))
+r = float(input('Informe um número real: '))
+
+a = (2 * x1) * (x2 / 2)
+b = 3 * x1 + r
+c = r ** 3
+
+print(a)
+print(b)
+print(c)
