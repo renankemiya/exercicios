@@ -19,3 +19,10 @@ if __name__ == '__main__':
     print(resultado.numero_1)
     print(resultado.numero_2)
     print(resultado.juntar(4000, 20))
+
+x = int(input('Insira um número: '))  # resposta certa, corrigida da internet
+y = int(input('Insira outro número: '))
+
+print('A soma desses números é:', x+y)
+
+
