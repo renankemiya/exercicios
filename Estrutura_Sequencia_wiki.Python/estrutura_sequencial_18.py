@@ -17,3 +17,12 @@ class CalculadorDeVelocidade:
 if __name__ == '__main__':
     medidor = CalculadorDeVelocidade(500, 2.72)
     print(medidor.calculador())
+
+arquivo = float(input('Qual o tamanho do arquivo em MB?: '))  # resposta certa, corrigido da internet
+link = float(input('Qual a velocidade do link de internet em Mbps? '))
+
+tempo = (arquivo / link)
+tempo_min = tempo // 60
+tempo_seg = tempo - tempo_min
+
+print(f'O tempo aproximado de download é de {tempo_min} minutos e {tempo_seg} segundos')

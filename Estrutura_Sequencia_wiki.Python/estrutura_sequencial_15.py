@@ -29,3 +29,18 @@ if __name__ == '__main__':
     print(salario.inss)
     print(salario.sindicato)
     print(salario.calcular_salario())
+
+
+hora = float(input('Quanto você ganhar por hora?: '))  # resposta certo, corrigido da internet
+tempo = float(input('Quantas horas você trabalha por mês?: '))
+
+salario_bruto = hora * tempo
+ir = salario_bruto*0.11
+inss = salario_bruto*0.08
+sindicato = salario_bruto*0.05
+salario_liquido = salario_bruto - ir - inss - sindicato
+
+print('Seu salário bruto é: ', salario_bruto)
+print('O valor pago ao INSS é: ', inss)
+print('O valor pago ao Sindicato é: ', sindicato)
+print('Seu salário liquido será : ', salario_liquido)
