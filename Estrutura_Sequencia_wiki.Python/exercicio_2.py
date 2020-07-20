@@ -27,5 +27,5 @@ if __name__ == '__main__':
     print(mandar.envio())
     chamar_numero(1)
 
-x = int(input('Insira um numero inteiro: '))  # resposta certa, pego da internet
+x = int(input('Insira um numero inteiro: '))  # resposta certa, corrigido da internet
 print('O numero inserido foi:', x)
