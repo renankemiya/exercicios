@@ -24,5 +24,3 @@ x = int(input('Insira um número: '))  # resposta certa, corrigida da internet
 y = int(input('Insira outro número: '))
 
 print('A soma desses números é:', x+y)
-
-
