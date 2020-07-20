@@ -28,4 +28,4 @@ if __name__ == '__main__':
     print(cumprimento())
     print(mundo.cumpirmentar_2())
 
-print('Alo Mundo')  # resposta certa pego da internet
+print('Alo Mundo')  # resposta certa, pego da internet
