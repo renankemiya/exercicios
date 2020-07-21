@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="terminado estrutura_de_decisão_4.py">
-      <change afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.estrutura_de_decisão_4">
+  <component name="RunManager" selected="Python.estrutura_de_decisão_5">
     <configuration name="estrutura_de_decisão_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="estrutura_sequencial_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="estrutura_de_decisão_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Sequencia_wiki.Python/estrutura_sequencial_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.estrutura_de_decisão_5" />
         <item itemvalue="Python.estrutura_de_decisão_4" />
         <item itemvalue="Python.estrutura_de_decisão_3" />
         <item itemvalue="Python.estrutura_de_decisão_1" />
         <item itemvalue="Python.estrutura_de_decisão_2" />
-        <item itemvalue="Python.estrutura_sequencial_1" />
       </list>
     </recent_temporary>
   </component>
@@ -188,13 +187,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594417390851</updated>
-    </task>
-    <task id="LOCAL-00013" summary="terminando exercicio_12.py">
-      <created>1595090213572</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1595090213572</updated>
     </task>
     <task id="LOCAL-00014" summary="terminando exercicio_13.py">
       <created>1595091846142</created>
@@ -532,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595351626561</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="terminado estrutura_de_decisão_4.py">
+      <created>1595353924474</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1595353924474</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -588,46 +587,46 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="138" y="328" width="909" height="689" key="DiffContextDialog/0.0.1280.984@0.0.1280.984" timestamp="1595263848039" />
-    <state width="1259" height="191" key="GridCell.Tab.0.bottom" timestamp="1595353914350">
+    <state width="1259" height="191" key="GridCell.Tab.0.bottom" timestamp="1595356220786">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595353914350" />
-    <state width="1259" height="191" key="GridCell.Tab.0.center" timestamp="1595353914350">
+    <state width="1259" height="191" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595356220786" />
+    <state width="1259" height="191" key="GridCell.Tab.0.center" timestamp="1595356220786">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595353914350" />
-    <state width="1259" height="191" key="GridCell.Tab.0.left" timestamp="1595353914350">
+    <state width="1259" height="191" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595356220786" />
+    <state width="1259" height="191" key="GridCell.Tab.0.left" timestamp="1595356220786">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595353914350" />
-    <state width="1259" height="191" key="GridCell.Tab.0.right" timestamp="1595353914350">
+    <state width="1259" height="191" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595356220786" />
+    <state width="1259" height="191" key="GridCell.Tab.0.right" timestamp="1595356220786">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595353914350" />
-    <state width="1259" height="324" key="GridCell.Tab.1.bottom" timestamp="1595352891224">
+    <state width="1259" height="191" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595356220786" />
+    <state width="1259" height="324" key="GridCell.Tab.1.bottom" timestamp="1595356218395">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="324" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595352891224" />
-    <state width="1259" height="324" key="GridCell.Tab.1.center" timestamp="1595352891224">
+    <state width="1259" height="324" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595356218395" />
+    <state width="1259" height="324" key="GridCell.Tab.1.center" timestamp="1595356218395">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="324" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1595352891224" />
-    <state width="1259" height="324" key="GridCell.Tab.1.left" timestamp="1595352891224">
+    <state width="1259" height="324" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1595356218395" />
+    <state width="1259" height="324" key="GridCell.Tab.1.left" timestamp="1595356218395">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="324" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1595352891224" />
-    <state width="1259" height="324" key="GridCell.Tab.1.right" timestamp="1595352891224">
+    <state width="1259" height="324" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1595356218395" />
+    <state width="1259" height="324" key="GridCell.Tab.1.right" timestamp="1595356218395">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="324" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1595352891224" />
+    <state width="1259" height="324" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1595356218395" />
     <state x="141" y="137" key="SettingsEditor" timestamp="1595353244289">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="141" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1595353244289" />
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1595351627706">
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1595353926045">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595351627706" />
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595353926045" />
     <state x="483" y="264" key="refactoring.ChangeSignatureDialog" timestamp="1594841565621">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
