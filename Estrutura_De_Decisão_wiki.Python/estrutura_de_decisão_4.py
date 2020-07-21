@@ -1,6 +1,10 @@
 letra = input('Insira uma letra: ')
+vogais = list('a' 'e' 'i' 'o' 'u')
+consoantes = list('b' 'c' 'd' 'f' 'g' 'h' 'j' 'k' 'l' 'm' 'n' 'p' 'q' 'r' 's' 't' 'v' 'w' 'x' 'y' 'z')
+for vogal in vogais:
+    if vogal == letra:
+        print('Essa letra é uma vogal')
 
-if letra == 'a' and 'e' and 'i' and 'o' and 'u':
-    print('Essa letra é uma vogal')
-else:
-    print('Essa letra é uma consoante')
+for consoante in consoantes:
+    if consoante == letra:
+        print('Essa letra é uma consoante')
