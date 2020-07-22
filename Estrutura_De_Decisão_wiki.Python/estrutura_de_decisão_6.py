@@ -24,4 +24,4 @@ elif numero_3 > numero_1:
     else:
         print(f'O terceiro e o segundo são iguais: {numero_3}, {numero_2}')
 else:
-    print(f'Todos os números são iguasi: {numero_1}, {numero_2}, {numero_3}')
+    print(f'Todos os números são iguais: {numero_1}, {numero_2}, {numero_3}')
