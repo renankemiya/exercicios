@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="terminado estrutura_de_decisão_26.py">
-      <change afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_27.py" afterDir="false" />
+    <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="terminado estrutura_de_decisão_27.py">
+      <change afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_28.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,28 +61,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.estrutura_de_decisão_27">
-    <configuration name="estrutura_de_decisão_23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_23.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.estrutura_de_decisão_28">
     <configuration name="estrutura_de_decisão_24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,13 +146,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="estrutura_de_decisão_28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_28.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.estrutura_de_decisão_28" />
         <item itemvalue="Python.estrutura_de_decisão_27" />
         <item itemvalue="Python.estrutura_de_decisão_26" />
         <item itemvalue="Python.estrutura_de_decisão_25" />
         <item itemvalue="Python.estrutura_de_decisão_24" />
-        <item itemvalue="Python.estrutura_de_decisão_23" />
       </list>
     </recent_temporary>
   </component>
@@ -187,27 +187,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594417390851</updated>
-    </task>
-    <task id="LOCAL-00049" summary="corrigindo exercicios">
-      <created>1595267092616</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1595267092616</updated>
-    </task>
-    <task id="LOCAL-00050" summary="corrigindo exercicios">
-      <created>1595267246184</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1595267246185</updated>
-    </task>
-    <task id="LOCAL-00051" summary="corrigindo exercicios">
-      <created>1595268076173</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1595268076173</updated>
     </task>
     <task id="LOCAL-00052" summary="corrigindo exercicios">
       <created>1595268123242</created>
@@ -531,7 +510,28 @@
       <option name="project" value="LOCAL" />
       <updated>1595967092890</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="terminado estrutura_de_decisão_27.py">
+      <created>1595972911172</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1595972911173</updated>
+    </task>
+    <task id="LOCAL-00099" summary="terminado estrutura_de_decisão_27.py">
+      <created>1595973049719</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1595973049719</updated>
+    </task>
+    <task id="LOCAL-00100" summary="terminado estrutura_de_decisão_27.py">
+      <created>1595973142783</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1595973142783</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +547,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="terminado estrutura_de_decisão_2.py" />
     <MESSAGE value="terminado estrutura_de_decisão_3.py" />
     <MESSAGE value="terminado estrutura_de_decisão_5.py" />
     <MESSAGE value="terminado estrutura_de_decisão_4.py" />
@@ -572,7 +571,8 @@
     <MESSAGE value="terminado estrutura_de_decisão_24.py" />
     <MESSAGE value="terminado estrutura_de_decisão_25.py" />
     <MESSAGE value="terminado estrutura_de_decisão_26.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminado estrutura_de_decisão_26.py" />
+    <MESSAGE value="terminado estrutura_de_decisão_27.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminado estrutura_de_decisão_27.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594417779056">
@@ -587,22 +587,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="138" y="328" width="909" height="689" key="DiffContextDialog/0.0.1280.984@0.0.1280.984" timestamp="1595263848039" />
-    <state width="1259" height="191" key="GridCell.Tab.0.bottom" timestamp="1595967068674">
+    <state width="1242" height="191" key="GridCell.Tab.0.bottom" timestamp="1595973278947">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595967068674" />
-    <state width="1259" height="191" key="GridCell.Tab.0.center" timestamp="1595967068674">
+    <state width="1242" height="191" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595973278947" />
+    <state width="1242" height="191" key="GridCell.Tab.0.center" timestamp="1595973278946">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595967068674" />
-    <state width="1259" height="191" key="GridCell.Tab.0.left" timestamp="1595967068673">
+    <state width="1242" height="191" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595973278946" />
+    <state width="1242" height="191" key="GridCell.Tab.0.left" timestamp="1595973278946">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595967068673" />
-    <state width="1259" height="191" key="GridCell.Tab.0.right" timestamp="1595967068674">
+    <state width="1242" height="191" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595973278946" />
+    <state width="1242" height="191" key="GridCell.Tab.0.right" timestamp="1595973278947">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="191" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595967068674" />
+    <state width="1242" height="191" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595973278947" />
     <state width="1259" height="324" key="GridCell.Tab.1.bottom" timestamp="1595878341902">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -623,10 +623,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="141" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1595445413702" />
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1595967095876">
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1595973144617">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595967095876" />
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1595973144617" />
     <state x="449" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595870646850">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
