@@ -1,3 +1,7 @@
+#  Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius.
+# C = 5 * ((F-32) / 9).
+
+
 class TemperaturaFarenheit:
     def __init__(self, farenheit):
         self.farenheit = farenheit

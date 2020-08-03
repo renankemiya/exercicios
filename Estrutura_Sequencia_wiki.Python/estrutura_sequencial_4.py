@@ -1,3 +1,4 @@
+#  Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 def nota_media(nota_1=0.0, nota_2=0.0, nota_3=0.0, nota_4=0.0):
     total = (nota_1 + nota_2 + nota_3 + nota_4) / 4
     return f'Sua nota foi de {int(total)}'

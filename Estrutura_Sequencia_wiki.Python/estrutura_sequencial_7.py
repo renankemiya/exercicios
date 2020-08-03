@@ -1,3 +1,4 @@
+#  Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 class AreaDobradaDoQuadrado:
     """ Classe que guarda o calculo da area do quadrado dobrado
     

@@ -1,3 +1,4 @@
+#  Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 def chamar_numero(s):
     """Função que pede um número com uma str especifica e retorna o número digitado com uma frase, primeira tentativa
 

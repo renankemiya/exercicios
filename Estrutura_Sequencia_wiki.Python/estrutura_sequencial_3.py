@@ -1,3 +1,4 @@
+#  Faça um Programa que peça dois números e imprima a soma.
 def somar(parametro, parametro_2):
     return parametro + parametro_2
 
