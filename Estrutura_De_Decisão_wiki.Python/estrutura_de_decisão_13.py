@@ -1,3 +1,6 @@
+#  Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.),
+#  se digitar outro valor deve aparecer valor inválido.
+
 dia = int(input('Insira um dia do mês: '))
 dias = {1: 'Domingo', 2: 'Segunda', 3: 'Terça', 4: 'Quarta', 5: 'Quinta', 6: 'Sexta', 7: 'Sábado',
         8: 'Domingo', 9: 'Segunda', 10: 'Terça', 11: 'Quarta', 12: 'Quinta', 13: 'Sexta', 14: 'Sábado',
@@ -67,3 +70,24 @@ elif dia == 30:
     print(dias[30])
 else:
     print('valor inválido')
+
+# Correção da internet
+
+dia = input("digite um numero de 1 a 7 referente ao dia da semana ---> ")
+if dia == 1 or dia == 2 or dia == 3 or dia == 4 or dia == 5 or dia == 6 or dia == 7:
+    if dia == 1:
+        print("domingo")
+    if dia == 2:
+        print("segunda")
+    if dia == 3:
+        print("terca")
+    if dia == 4:
+        print("quarta")
+    if dia == 5:
+        print("quinta")
+    if dia == 6:
+        print("sexta")
+    if dia == 7:
+        print("sabado")
+else:
+    print("numero invaliddo!!!")
