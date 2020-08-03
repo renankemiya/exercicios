@@ -49,26 +49,38 @@ elif 10 >= media > 9:
 
 # Correção da internet
 
-nota1 = input("digite sua primeira nota ---> ")
-nota2 = input("digite sua segunda nota ---> ")
-media = (float(nota1) + float(nota2)) / 2
+nota1 = float(input("Digite o valor da 1ª nota: "))
+nota2 = float(input("Digite o valor da 2ª nota: "))
 
-if 9.0 <= media:
-    conceito = "A"
-if 7.5 <= media < 9.0:
-    conceito = "B"
-if 6.0 <= media < 7.5:
-    conceito = "C"
-if 4.0 <= media < 6.0:
-    conceito = "D"
-if 0.0 <= media < 4.0:
-    conceito = "E"
+media = (nota1 + nota2) / 2
 
-if conceito == "A" or conceito == "B" or conceito == "C":
-    situacao = "Aprovado"
-else:
-    situacao = "Reprovado"
-
-print("media - ", media)
-print("conceito - ", conceito)
-print("situacao - ", situacao)
+if 6 <= media <= 7.5:
+    print("1ª nota: ", nota1)
+    print("2ª nota: ", nota2)
+    print("Sua média final é ", media)
+    print("Você está aprovado!")
+    print("Conceito C")
+elif 7.5 <= media <= 9:
+    print("1ª nota: ", nota1)
+    print("2ª nota: ", nota2)
+    print("Sua média final é ", media)
+    print("Você está aprovado!")
+    print("Conceito B")
+elif 9 <= media <= 10:
+    print("1ª nota: ", nota1)
+    print("2ª nota: ", nota2)
+    print("Sua média final é ", media)
+    print("Você está aprovado!")
+    print("Conceito A")
+elif 4 <= media <= 6:
+    print("1ª nota: ", nota1)
+    print("2ª nota: ", nota2)
+    print("Sua média final é ", media)
+    print("Você está reprovado!")
+    print("Conceito D")
+elif 0 <= media <= 4:
+    print("1ª nota: ", nota1)
+    print("2ª nota: ", nota2)
+    print("Sua média final é ", media)
+    print("Você está reprovado!")
+    print("Conceito E")
