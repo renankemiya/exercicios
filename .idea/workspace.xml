@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="corrigido">
-      <change beforePath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,20 +187,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594417390851</updated>
-    </task>
-    <task id="LOCAL-00058" summary="terminado estrutura_de_decisão_2.py">
-      <created>1595350059026</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1595350059026</updated>
-    </task>
-    <task id="LOCAL-00059" summary="terminado estrutura_de_decisão_3.py">
-      <created>1595350710213</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1595350710213</updated>
     </task>
     <task id="LOCAL-00060" summary="terminado estrutura_de_decisão_3.py">
       <created>1595350940632</created>
@@ -530,7 +517,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596479019522</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="corrigido">
+      <created>1596479296471</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1596479296471</updated>
+    </task>
+    <task id="LOCAL-00108" summary="corrigido">
+      <created>1596479462845</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1596479462845</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -626,10 +627,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="141" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1595445413702" />
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1596479020614">
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1596479464043">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1596479020614" />
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1596479464043" />
     <state x="449" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595870646850">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
