@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3fd6929-4c46-4ba1-ba6e-520ccc8ec742" name="Default Changelist" comment="corrigindo">
-      <change beforePath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_De_Decisão_wiki.Python/estrutura_de_decisão_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,13 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594417390851</updated>
-    </task>
-    <task id="LOCAL-00055" summary="começando estrutura_de_decisão_1.py">
-      <created>1595276928159</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1595276928159</updated>
     </task>
     <task id="LOCAL-00056" summary="terminado estrutura_de_decisão_1.py">
       <created>1595349731321</created>
@@ -530,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596476188367</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="corrigindo">
+      <created>1596476519664</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1596476519664</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,22 +586,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="138" y="328" width="909" height="689" key="DiffContextDialog/0.0.1280.984@0.0.1280.984" timestamp="1595263848039" />
-    <state width="1242" height="191" key="GridCell.Tab.0.bottom" timestamp="1595973278947">
+    <state width="1242" height="191" key="GridCell.Tab.0.bottom" timestamp="1596476483126">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1242" height="191" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1595973278947" />
-    <state width="1242" height="191" key="GridCell.Tab.0.center" timestamp="1595973278946">
+    <state width="1242" height="191" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1596476483126" />
+    <state width="1242" height="191" key="GridCell.Tab.0.center" timestamp="1596476483126">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1242" height="191" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1595973278946" />
-    <state width="1242" height="191" key="GridCell.Tab.0.left" timestamp="1595973278946">
+    <state width="1242" height="191" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1596476483126" />
+    <state width="1242" height="191" key="GridCell.Tab.0.left" timestamp="1596476483126">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1242" height="191" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1595973278946" />
-    <state width="1242" height="191" key="GridCell.Tab.0.right" timestamp="1595973278947">
+    <state width="1242" height="191" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1596476483126" />
+    <state width="1242" height="191" key="GridCell.Tab.0.right" timestamp="1596476483126">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1242" height="191" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1595973278947" />
+    <state width="1242" height="191" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1596476483126" />
     <state width="1259" height="324" key="GridCell.Tab.1.bottom" timestamp="1595878341902">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -622,10 +622,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="141" y="137" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1595445413702" />
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1596476189784">
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2" timestamp="1596476523423">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1596476189784" />
+    <state x="210" y="450" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1596476523423" />
     <state x="449" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595870646850">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
