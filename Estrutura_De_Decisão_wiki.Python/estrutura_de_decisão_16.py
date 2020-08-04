@@ -29,13 +29,13 @@ else:
 import math
 
 print("| digite os valores correspondente a equação do 2º grau: A, B e C | ")
-a = input("Digite o valor de A: ")
+a = float(input("Digite o valor de A: "))
 
 if a == 0:
     print("A equação não é de 2º grau.")
 else:
-    b = input("Digite o valor de B: ")
-    c = input("Digite o valor de C: ")
+    b = float(input("Digite o valor de B: "))
+    c = float(input("Digite o valor de C: "))
 
 delta = (b * b) - 4 * a * c
 
