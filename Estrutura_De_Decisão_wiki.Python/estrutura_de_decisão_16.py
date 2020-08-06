@@ -22,7 +22,7 @@ else:
     elif delta > 0:
         resultado_1 = (-b + (delta ** 0.5)) / (2 * a)
         resultado_2 = (-b - (delta ** 0.5)) / (2 * a)
-        print(f'A equação possui duas raizes reais: {resultado_1} e {resultado_2}')
+        print(f'A equação possui duas raizes reais: {round(resultado_1, 2)} e {round(resultado_2, 2)}')
 
 #  Correção da internet
 
