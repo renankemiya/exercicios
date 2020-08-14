@@ -1,3 +1,4 @@
+import math
 #  Faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c.
 #  O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário
 #  nas seguintes situações:
@@ -26,7 +27,6 @@ else:
 
 #  Correção da internet
 
-import math
 
 print("| digite os valores correspondente a equação do 2º grau: A, B e C | ")
 a = float(input("Digite o valor de A: "))
@@ -37,15 +37,15 @@ else:
     b = float(input("Digite o valor de B: "))
     c = float(input("Digite o valor de C: "))
 
-delta = (b * b) - 4 * a * c
+    delta = (b ** 2) - 4 * a * c
 
-if delta < 0:
-    print("A equação não possui raizes reais")
-if delta == 0:
-    raiz = ((-1) * b + math.sqrt(delta)) / (2 * a)
-    print("Sua equação possui apenas uma raíz, que é igual a ", raiz)
-if delta > 0:
-    raiz = ((-1) * b + math.sqrt(delta)) / (2 * a)
-    raiz2 = ((-1) * b - math.sqrt(delta)) / (2 * a)
-    print("A primeira raiz da equação é igual a ", raiz)
-    print("A segunda raiz da equação é igual a ", raiz2)
+    if delta < 0:
+        print("A equação não possui raizes reais")
+    if delta == 0:
+        raiz = ((-1) * b + math.sqrt(delta)) / (2 * a)
+        print("Sua equação possui apenas uma raíz, que é igual a ", raiz)
+    if delta > 0:
+        raiz = ((-1) * b + math.sqrt(delta)) / (2 * a)
+        raiz2 = ((-1) * b - math.sqrt(delta)) / (2 * a)
+        print("A primeira raiz da equação é igual a ", raiz)
+        print("A segunda raiz da equação é igual a ", raiz2)

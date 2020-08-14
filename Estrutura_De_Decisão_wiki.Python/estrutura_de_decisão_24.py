@@ -1,3 +1,9 @@
+#  Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar.
+#  O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
+# par ou ímpar;
+# positivo ou negativo;
+# inteiro ou decimal.
+
 numero_1 = float(input('Insira um número: '))
 numero_2 = float(input('Insira outro número: '))
 operacao = input('Insira a operação que deseja realizar: somar, subtrair, dividir ou multiplicar: ')
